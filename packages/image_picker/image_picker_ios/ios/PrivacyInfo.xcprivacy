@@ -1,1 +1,13 @@
+{
+  "privacyTypes": [
+    {
+      "privacyType": "camera",
+      "usage": "App requires access to the camera to capture photos."
+    },
+    {
+      "privacyType": "photos",
+      "usage": "App requires access to the photo library for image selection."
+    }
+  ]
+}
 
